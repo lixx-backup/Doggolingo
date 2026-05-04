@@ -9,7 +9,6 @@ The current project is a Kaggle notebook workflow using Unsloth, QLoRA, and TRL 
 - `doggolingo_qlora_training.ipynb` - Kaggle training notebook.
 - `data/doggolingo_sft.jsonl` - combined 500-example synthetic SFT dataset.
 - `data/doggolingo_sft_agent*.jsonl` - four 125-example source shards used to build the combined dataset.
-- `CLARIFYING_QUESTIONS.md` - project decisions, recommendations, and training rationale.
 
 ## Dataset Format
 
